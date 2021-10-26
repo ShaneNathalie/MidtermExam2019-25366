@@ -1,0 +1,21 @@
+.contacts
+{
+    background-color: blueviolet;
+    height: 500px;
+}
+.box
+{
+    background-color: ghostwhite;
+    height: 100%;
+    padding: 10px 10px;
+    
+  
+}
+.follow a
+{
+    padding: 115px 115px;
+    color: black;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: larger;
+}
